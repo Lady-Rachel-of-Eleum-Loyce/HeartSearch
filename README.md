@@ -1,0 +1,1 @@
+This was a game created as part of a project in Year 2 Semester 2 in an undergraduate course. It explores creating levels from scratch using basic imported assets and simple game mechanics such as hitting several triggers before a final door opens.
